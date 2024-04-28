@@ -57,7 +57,6 @@ a {
 
 .header .logo {
     margin-right: 76px;
-    padding: 24px 0;
 }
 
 .logo-part {
@@ -78,6 +77,7 @@ a {
 .nav-list-a {
     color: #2e2f42;
     letter-spacing: 0.02em;
+    padding: 24px 0;
 }
 
 .nav-list-a:hover {
