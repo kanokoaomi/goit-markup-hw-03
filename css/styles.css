@@ -56,7 +56,8 @@ a {
 }
 
 .header .logo {
-    margin-right: 76px
+    margin-right: 76px;
+    padding: 24px 0;
 }
 
 .logo-part {
@@ -72,7 +73,6 @@ a {
 .nav-list {
     display: flex;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .nav-list-a {
@@ -201,9 +201,11 @@ a {
     overflow: hidden;
 }
 
+/*
 .screen-two .title-hidden {
     margin-bottom: 72px;
 }
+*/
 
 .screen-two {
     padding-top: 120px;
